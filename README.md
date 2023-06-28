@@ -16,7 +16,7 @@
 - 교육활동   이젠컴퓨터아카데미 Java Full Stack (22.12.30~23.05.25, 800시간)
 </br>
 
-## :heavy_check_mark: Skill <a id="Skill"></a>
+## :heavy_check_mark: Skill <a id="skill"></a>
 - 프론트엔드  HTML / CSS / JavaScript / React.js / JQuery(AJAX) </br>
 - 백엔드    Spring / SpringBoot / RESTful API(JSON) </br>
 - 언어     Java </br>
@@ -27,13 +27,13 @@
 - etc      Chart.js / Kakao_map_API / Spring.io </br>
 </br>
 
-## :heavy_check_mark: Communication <a id="Communication"></a>
+## :heavy_check_mark: Communication <a id="communication"></a>
 - Email     cntjr3@naver.com
 - Github    https://github.com/SaSr1218
 - Notion    https://www.notion.so/PLANNING-860274fd7369496b8488abbac884bef9
 </br>
 
-## :heavy_check_mark: Projects (Team) <a id="Projects"></a>
+## :heavy_check_mark: Projects (Team) <a id="projects"></a>
 ### 1. [MES](https://github.com/Tea-ho/MES/tree/TeO)
 >MES 원자재 관리 및 제품생산 판매 관리 프로그램 (팀 프로젝트) </br>
 >
