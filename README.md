@@ -7,7 +7,7 @@
 > :heavy_plus_sign:   [etc](#etc) </br>
 </br>
 
-## :heavy_check_mark: Personal_Information<a id="personal_information"></a>
+## :heavy_check_mark: Education <a id="Education"></a>
 <img src=https://user-images.githubusercontent.com/121651332/249065142-ad4f55df-b96e-4b72-9f79-ffcc5dc757a0.jpg width="200"/> </br>
 - 이름     최성아
 - 생년월일   1999.01.01 (만 24세)
